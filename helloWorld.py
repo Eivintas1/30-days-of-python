@@ -29,9 +29,27 @@ print(type(your_country))
 print(type(your_family_name))
 print(type(your_name))
 
+integer = 2
+float_number = 3.0
+complex_number = 4 - 4j
+name = "evan"
+true = True
+false = False
+
+#list ordered collection of items
+my_list = [1,2,3,4,5]
+
+#tuple data cannot be changed
+tuple = (1,2,3,4,5)
+
+#set unordered collection of unique items
+my_set = {1,2,3,4,5}
+
+# dictionary ordered collection of key-value pairs
+my_dict = {'name':'evan', 'age':25}
+
 #{\displaystyle d(p,q)=|p-q|.}
 #Find an Euclidian distance between (2, 3) and (10, 8)
-
 
 p = (2.3,)
 q = (10.8,)
