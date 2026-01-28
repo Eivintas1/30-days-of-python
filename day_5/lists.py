@@ -68,4 +68,5 @@ if check_company in it_companies:
     print(f"{check_company} exists in the list")
 else:
     print(f"{check_company} does not exist in the list")
+
     
